@@ -1,0 +1,29 @@
+{
+  "name": "sextouseusidiotinhas",
+  "version": "1.0.1",
+  "description": "SEXTOU CRL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbfonseca/sextouseusidiotinhasgit"
+  },
+  "keywords": [
+    "sextouseusidiotinhas"
+  ],
+  "bin": {
+    "sextouseusidiotinhas": "./index.js"
+  },
+  "author": "Gabriel Fonseca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbfonseca/sextouseusidiotinhas/issues"
+  },
+  "homepage": "https://github.com/gbfonseca/sextouseusidiotinhas#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
